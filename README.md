@@ -11,7 +11,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mim:
 - 🏦 estudante de análise e desenvolvimento de sistemas 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 uso diariamente: **.js** **.html**, **.css**, **.php**, **.py**,  **.sql**
 - 📖 atualmente estudando PowerBI
 - 💬 Fale comigo sobre computadores, periféricos que envolve computadores e tecnologia

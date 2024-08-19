@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 uso diariamente: **.js** **.html**, **.css**, **.php**, **.py**,  **.sql**
 - 📖 atualmente estudando PowerBI
-- 💬 Fale comigo sobre computadores, periféricos que envolve computadores e tecnologia
+- 💬 Fale comigo sobre periféricos que envolvam tecnologia e computadores
 - 👯 Podemos nos conectar para jogar algumas partidas de xadrez ♟
 - 🧑‍💻 tecnologias em que trabalho:
 

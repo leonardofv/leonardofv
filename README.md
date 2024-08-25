@@ -1,4 +1,4 @@
-# Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-fonteles/" target="_blank">

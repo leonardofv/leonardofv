@@ -23,10 +23,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 - 🏦 estudante de análise e desenvolvimento de sistemas 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 uso diariamente: **.js** **.html** **.css**
-- 💬 Fale comigo sobre periféricos que envolvam tecnologia e computadores
-- 👯 Podemos nos conectar para jogar algumas partidas de xadrez ♟
-
 ###
 
 <p align="left">Techs</p>
